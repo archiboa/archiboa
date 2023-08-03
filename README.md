@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm @archiboa (Anita FRancis Archibong), and I'm passionate about cybersecurity and all things related to keeping the digital world safe and secure. This is my GitHub repository where I explore various aspects of cybersecurity and share my knowledge and projects related to the field.
+I'm @archiboa (Anita Francis Archibong), and I'm passionate about cybersecurity and all things related to keeping the digital world safe and secure. This is my GitHub repository where I explore various aspects of cybersecurity and share my knowledge and projects related to the field.
 
 ## 👀 Interest in Cybersecurity
 
